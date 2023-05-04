@@ -145,5 +145,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 ### Credits : 
 
 - [Adarsh Goel](https://github.com/adarsh-goel)
-- [Me For Fix Errors](https://github.com/itz-jeol)
+- [PROFFESOOR](https://github.com)
 - Everyone In This Journey !
