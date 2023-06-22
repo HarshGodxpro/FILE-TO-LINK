@@ -29,9 +29,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("🍁OWNER", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/PROFE07XH")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@violencegaming7662")]
+                    [InlineKeyboardButton("⚡ ML UPDATES ⚡", url="https://t.me/Max_Leech_Zone_Update"), InlineKeyboardButton("⚡ SECOND BOT⚡", url="https://t.me/ProFileToLinkBot")],
+                    [InlineKeyboardButton("🚀 OWNER 🚀", url="https://t.me/PROFE07XH"), InlineKeyboardButton("🗿 DEVELOPER 🗿", url="https://t.me/PROFE07XH")],
+                    [InlineKeyboardButton("🕊️ MAX LEECH ZONE 🕊️", url="https://t.me/+gooL_Tqzgo5jNjk1")]
                 ]
             ),
             
@@ -85,9 +85,9 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("🍁OWNER", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/PROFE07XH")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@violencegaming7662")]
+                    [InlineKeyboardButton("⚡ ML UPDATES ⚡", url="https://t.me/Max_Leech_Zone_Update"), InlineKeyboardButton("⚡ SECOND BOT⚡", url="https://t.me/ProFileToLinkBot")],
+                    [InlineKeyboardButton("🚀 OWNER 🚀", url="https://t.me/PROFE07XH"), InlineKeyboardButton("🗿 DEVELOPER 🗿", url="https://t.me/PROFE07XH")],
+                    [InlineKeyboardButton("💌 MAX LEECH ZONE 💌", url="https://t.me/+gooL_Tqzgo5jNjk1")]
                 ]
             ),
             
@@ -103,26 +103,26 @@ async def about_handler(bot, message):
         )
     await message.reply_photo(
             photo="https://telegra.ph/file/0abad3d7c58a4d1ecd155.jpg",
-            caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
+            caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs🌚</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/club_updates_97'>Updates</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/ProleechgroupbyProffesor'>support</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Max_Leech_Zone_Update'>Updates</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+gooL_Tqzgo5jNjk1'>support</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@violencegaming7662'>Just Fun</a></b>
+┣⪼<b>Owner: <a href='https://t.me/PROFE07XH'>Just Playing</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("🍁OWNER", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/PROFE07XH")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@violencegaming7662")]
+                    [InlineKeyboardButton("⚡ ML UPDATES ⚡", url="https://t.me/Max_Leech_Zone_Update"), InlineKeyboardButton("⚡ SECOND BOT ⚡", url="https://t.me/ProFileToLinkBot")],
+                    [InlineKeyboardButton("🚀 OWNER 🚀", url="https://t.me/PROFE07XH"), InlineKeyboardButton("🗿 DEVELOPER 🗿", url="https://t.me/PROFE07XH")],
+                    [InlineKeyboardButton("💌 MAX LEECH ZONE 💌", url="https://t.me/+gooL_Tqzgo5jNjk1")]
                 ]
             ),
             
